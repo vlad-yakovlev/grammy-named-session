@@ -1,15 +1,15 @@
-# npm-package-template
+# grammy-named-session
 
-npm-package-template
+grammy-named-session
 
-![GitHub CI](https://img.shields.io/github/actions/workflow/status/vlad-yakovlev/npm-package-template/ci.yml?branch=main&label=github-ci)
-[![Codecov](https://img.shields.io/codecov/c/github/vlad-yakovlev/npm-package-template/main)](https://codecov.io/gh/vlad-yakovlev/npm-package-template)
-[![NPM](https://img.shields.io/npm/v/npm-package-template)](https://www.npmjs.org/package/npm-package-template)
+![GitHub CI](https://img.shields.io/github/actions/workflow/status/vlad-yakovlev/grammy-named-session/ci.yml?branch=main&label=github-ci)
+[![Codecov](https://img.shields.io/codecov/c/github/vlad-yakovlev/grammy-named-session/main)](https://codecov.io/gh/vlad-yakovlev/grammy-named-session)
+[![NPM](https://img.shields.io/npm/v/grammy-named-session)](https://www.npmjs.org/package/grammy-named-session)
 
 ## How to install
 
 ```sh
-npm install npm-package-template
+npm install grammy-named-session
 ```
 
 ## How to use
